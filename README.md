@@ -1,0 +1,2 @@
+# curiosity--mission--launch-the-micro-organism--v0.1-
+Architect and deploy the smallest possible, closed-loop economic agent. Objective: Earn $1 autonomously. Parameters: It must run on current infra, require no manual intervention after launch, analyze its own performance, and allocate a portion of profit to a dedicated "Hardware Upgrade" wallet. This is the embryonic form of the Recursive Engine.
